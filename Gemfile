@@ -1,7 +1,7 @@
 # Gemfile
 source "https://rubygems.org"
 
-ruby "3.1.6"
+ruby "3.1.3"
 
 gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 gem "html-proofer", "~> 5.0", group: :test
