@@ -1,5 +1,5 @@
 ---
-title: Unlocking the Full Potential of Cloud Security: Defender for Servers Plan 2 vs. Defender CSPM
+title: "Servers P2 vs CSPM"
 date: 2024-12-27
 categories: [Defender for cloud]
 tags: [defenderforcloud,defenderforcspm,defenderforservers,devops,security]
