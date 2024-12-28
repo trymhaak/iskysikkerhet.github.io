@@ -2,7 +2,7 @@
 layout: post
 title: "Defender for Servers Plan 2 vs. CSPM: Overlaps, Pricing, and Cost Savings"
 date: 2024-12-28
-categories: [cloud-security, microsoft]
+categories: [defender for cloud, defender for servers, defender for cspm]
 tags: [microsoftdefender,cspm,cost-savings,cloud-security]
 seo:
   title: "Defender for Servers Plan 2 vs. CSPM: Optimize Costs Without Sacrificing Security"
