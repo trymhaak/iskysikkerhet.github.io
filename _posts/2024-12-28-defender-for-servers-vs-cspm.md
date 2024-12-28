@@ -33,11 +33,13 @@ Defender CSPM only incurs charges for subscriptions with billable resources (e.g
 
 ### Pricing Breakdown
 
-**Defender for Servers Plan 2:**  
+**Defender for Servers Plan 2:**
+
 - $14.60/server/month.  
 - Example: 100 servers = **$1,460/month**.
 
-**Defender CSPM:**  
+**Defender CSPM:**
+  
 - $5.11/resource/month for billable assets.  
 - Example: 50 VMs + 20 storage accounts + 10 databases = 80 resources = **$408.80/month**.
 
