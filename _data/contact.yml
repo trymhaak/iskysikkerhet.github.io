@@ -13,6 +13,11 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+- type: bluesky
+  icon: 'fa-brands fa-bluesky'
+  noblank: true   
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -27,9 +32,7 @@
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
 #
-# - type: bluesky
-#   icon: 'fa-brands fa-bluesky'
-#   url: ''                   # Fill with your Bluesky profile link
+                 # Fill with your Bluesky profile link
 #
 # - type: reddit
 #   icon: 'fa-brands fa-reddit'
